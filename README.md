@@ -5,9 +5,12 @@ This is a **placeholder** _document_.
 
 ## Meeting Notes: Sept 11, 2019
 
+### Inspirations
+- [Example Link](https://dribbble.com/shots/7151217-Plants-App-Today-Tasks)
+  - What I like about this interface is...
+
 ### Content List
-Here are some must haves:
-<!-- THIS IS JUST AN EXAMPLE!!!!! -->
+<!-- THIS IS JUST AN EXAMPLE LIST!!!!! Create your own -->
 
 - Header
   - Logo
