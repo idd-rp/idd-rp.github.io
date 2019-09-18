@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+
 body {
 	background-color: lightgray;
 	font-weight: normal;
@@ -7,4 +9,5 @@ body {
 }
 h1 {
 	border-bottom: 0.125rem solid black;
+	font: 500 normal 2.5rem 'Roboto', helvetica, arial, sans-serif;
 }
